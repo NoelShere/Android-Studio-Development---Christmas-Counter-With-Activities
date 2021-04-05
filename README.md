@@ -23,11 +23,13 @@ The buttons are beautifully created in photoshop to make the user experience eye
 
 [![Details](https://github.com/noelshereportfolio/Android-Studio-Development---Christmas-Counter-With-Activities/blob/main/image/p2.png)](https://play.google.com/store/apps/details?id=ns.noelistic.christmascountdown)
 
-
+Advertising
 
 ✨Google Ads / Adwords 
 
 ✨Keyword tools for setting target audience
+
+✨ Facebook ads and more
 
 ## Playstore Link:
 
