@@ -15,7 +15,7 @@ Christmas Counter and Activities– The project is created using JAVA in Android
 
 ## User Experence 
 The layout of the application contains a home layout and sub layouts.
-[![Details](https://github.com/noelshereportfolio/Android-Studio-Development---G1-Practice-Test-Application/blob/main/readme_assets/p1.png)](https://play.google.com/store/apps/details?id=com.noelistic.g1app)
+[![Details](https://github.com/noelshereportfolio/Android-Studio-Development---Christmas-Counter-With-Activities/blob/main/image/p1.png)](https://play.google.com/store/apps/details?id=ns.noelistic.christmascountdown)
 
 ## App Download
 
