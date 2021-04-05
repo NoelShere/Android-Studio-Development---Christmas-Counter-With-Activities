@@ -10,6 +10,7 @@ Christmas Counter and Activities– The project is created using JAVA in Android
 
 ## Features
 ✅ Add a Musicplayer (Carolls & Music)
+
 ✅ Created a system that shows new verse every 30 seconds.
 
 ## User Experence 
