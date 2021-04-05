@@ -27,7 +27,7 @@ The buttons are beautifully created in photoshop to make the user experience eye
 
 ✨Google Ads / Adwords 
 
-✨Keyword tools for setting target audience
+✨Keyword tools for setting the target audience
 
 ✨ Facebook ads and more
 
