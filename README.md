@@ -21,6 +21,7 @@ The buttons are beautifully created in photoshop to make the user experience eye
 
 [![Details](https://github.com/noelshereportfolio/Android-Studio-Development---Christmas-Counter-With-Activities/blob/main/image/p1.png)](https://play.google.com/store/apps/details?id=ns.noelistic.christmascountdown)
 
+[![Details](https://github.com/noelshereportfolio/Android-Studio-Development---Christmas-Counter-With-Activities/blob/main/image/p1.png)](https://play.google.com/store/apps/details?id=ns.noelistic.christmascountdown)
 
 ## Download Now:
 
