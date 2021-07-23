@@ -1,4 +1,5 @@
 # Android-Studio-Development---Christmas-Counter-With-Activities
+[![Details](https://github.com/noelshereportfolio/Android-Studio-Development---Christmas-Counter-With-Activities/blob/main/image/logo.png)](https://play.google.com/store/apps/details?id=ns.noelistic.christmascountdown)
 
 ## Description
 This Application is a countdown to Christmas. While waiting for Christmas to arrive users can listen to carols, music and read Bible verses. People usually get into the Christmas spirit early on and this is a good way to get your day started. Every morning you are greeted with a notification of a verse and image. User can also share Christmas cards through the app to your family and friends.
